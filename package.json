@@ -1,0 +1,19 @@
+{
+  "name": "find-rss",
+  "version": "1.0.0",
+  "description": "Finds RSS feeds for a given URL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "keywords": [],
+  "author": "Hrvoje Simic <hrvoje@twobucks.co>",
+  "license": "MIT",
+  "dependencies": {
+    "htmlparser2": "^3.9.1",
+    "request": "^2.75.0"
+  },
+  "devDependencies": {
+    "standard": "^8.1.0"
+  }
+}
